@@ -1,8 +1,8 @@
 # elahsoft
 
-#ABOUT
+# ABOUT
 This project uses CodeIgniter - a PHP Framework to build a simple website.
-#SET UP
+# SET UP
 1. Clone the repository
 2. Download and Install XAMPP
 3. Import the database file elahsoft.sql into a mysql database called 'elahsoft' using phpmyadmin.
